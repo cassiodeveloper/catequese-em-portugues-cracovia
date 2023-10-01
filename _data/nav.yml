@@ -4,21 +4,21 @@ items:
   icon_class: fa fa-home fa-lg
 
 - url: /schedule/
-  name: Schedule
+  name: Agenda
   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
-  name: Lectures
+  name: Lições
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Assignments
+  name: Atribuições
   icon_class: fas fa-user-graduate
 
 - url: /project/
-  name: Project
+  name: Projeto
   icon_class: fas fa-user-graduate
 
 - url: /materials/
-  name: Materials
+  name: Materiais
   icon_class: fas fa-book
