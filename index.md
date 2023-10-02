@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Faça sua matrícula agora mesmo [clicando aqui](https://catequese-em-portugues-em-cracovia.eventbrite.com.br) não deixe para depois.

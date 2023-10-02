@@ -6,13 +6,13 @@ permalink: /materials/
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-## Book
+## Livro
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Título do livro base vai aqui
 
-## Additional Course Materials
+## Materiais adicionais
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
+* Aqui uma lista de materiais adicionais que serão utilizados na catequese.
 * [Material #1](http://www.example.com/): how a computer chess player thinks!
 * [Material #2](http://www.example.com/): how a computer chess player thinks!
 * [Material #3](http://www.example.com/): how a computer chess player thinks!
