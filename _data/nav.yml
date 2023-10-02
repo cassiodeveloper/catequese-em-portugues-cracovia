@@ -11,9 +11,9 @@ items:
   name: Lições
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Atribuições
-  icon_class: fas fa-user-graduate
+# - url: /assignments/
+#   name: Atribuições
+#   icon_class: fas fa-user-graduate
 
 - url: /project/
   name: Projeto
