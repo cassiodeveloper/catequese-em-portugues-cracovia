@@ -1,9 +1,9 @@
 instructors:
   - name: Rafaela Durlo
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/rafaela.jpg
+    webpage:
   - name: Pe. Jonas
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/pejonas.jpg
 
 # teaching_assistants:
 #   - name: Harry Potter
