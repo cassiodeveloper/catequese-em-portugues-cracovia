@@ -16,8 +16,8 @@ items:
 #   icon_class: fas fa-user-graduate
 
 - url: /project/
-  name: Projeto
-  icon_class: fas fa-user-graduate
+  name: Intercessores
+  icon_class: fas fa-hands-praying
 
 - url: /materials/
   name: Materiais
