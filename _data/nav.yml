@@ -17,7 +17,7 @@ items:
 
 - url: /project/
   name: Intercessores
-  icon_class: fas fa-hands-praying
+  icon_class: fas fa-praying-hands
 
 - url: /materials/
   name: Materiais
